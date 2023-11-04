@@ -23,7 +23,7 @@ const technologies = [
 const Technologies: React.FC = () => {
   return (
     <section>
-        <div className="mt-10 p-5">
+        <div className="mt-20 p-5">
           <h1 className="text-5xl font-bold  text-center">Skills.</h1>
           <p className="text-xl font-bold text-gray-800 text-center">
            My Technologies Expertise

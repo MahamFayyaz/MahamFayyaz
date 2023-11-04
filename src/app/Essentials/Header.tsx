@@ -17,7 +17,7 @@ export default function Header() {
         <a href='/Pages/Contact'><li>Contact</li></a>
         </ul>
 </div>
-<button className=" border-gray-900 border-2 mt-3 rounded-full text-center bg-black text-white p-2 text-md items-center ">DownloadCV</button>          
+<a href="/" download="proposed_file_name" className=" border-gray-900 border-2 mt-3 rounded-full text-center bg-black text-white p-2 text-md items-center ">Download CV</a>
 </div>
 </header>
   )
