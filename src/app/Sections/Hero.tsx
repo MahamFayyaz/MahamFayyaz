@@ -17,9 +17,9 @@ export default function Hero() {
           <button className="flex-1 border-black border-2 mt-3 rounded-full text-center text-white p-2 text-lg bg-black  items-center">Want to discuss?</button>
         </div></div>
 
-        {/* <div>
+        <div>
           <Image className="rounded-full" src={camera} alt="camera" />
-        </div> */}
+        </div>
       </div>
     </div>
   );
